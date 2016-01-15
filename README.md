@@ -12,3 +12,4 @@
 ### Papers about optimization
 
 +  [UNITARY EVOLUTION RECURRENT NEURAL NETWORKS, Arjovsky, 2015](http://arxiv.org/pdf/1511.06464.pdf)
++  [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift, Sergey Ioffe, 2015](http://arxiv.org/pdf/1502.03167v3.pdf)

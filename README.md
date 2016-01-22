@@ -13,3 +13,8 @@
 
 +  [UNITARY EVOLUTION RECURRENT NEURAL NETWORKS, Arjovsky, 2015](http://arxiv.org/pdf/1511.06464.pdf)
 +  [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift, Sergey Ioffe, 2015](http://arxiv.org/pdf/1502.03167v3.pdf)
+
+
+### Reinforcement learning
+
++ [Playing Atari with Deep Reinforcement Learning, Volodymyr, 2013](http://arxiv.org/pdf/1312.5602v1.pdf)

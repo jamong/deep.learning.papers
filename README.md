@@ -6,7 +6,6 @@
 
 + [NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE, Bahdanau, 2015](http://arxiv.org/pdf/1409.0473.pdf)
 + [Effective Approaches to Attention-based Neural Machine Translation, Luong, 2015](http://www.aclweb.org/anthology/D15-1166)
-+ [End-To-End Memory Networks, Sukhbaatar, 2015](http://arxiv.org/pdf/1503.08895v5.pdf)
 + [Recurrent Memory Network for Language Modeling, Tran, 2016](http://arxiv.org/pdf/1601.01272v1.pdf)
 
 ### Papers about optimization
@@ -29,4 +28,13 @@
 + [Neural Responding Machine for Short-Text Conversation, Shang, 2015](http://arxiv.org/pdf/1503.02364.pdf)
 + [A Neural Conversational Model, Vinyals, 2015](http://arxiv.org/pdf/1506.05869.pdf)
 + [The Ubuntu Dialogue Corpus: A Large Dataset for Research in Unstructured Multi-Turn Dialogue Systems, Lowe, 2015](http://arxiv.org/pdf/1506.08909.pdf)
+ 
+### Papers about memory networks
 
++ [Memory Networks, Weston, 2014](http://arxiv.org/pdf/1410.3916)
++ [End-To-End Memory Networks, Sukhbaatar, 2015](http://arxiv.org/pdf/1503.08895v5.pdf)
++ [Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks, Weston, 2015](http://arxiv.org/pdf/1502.05698)
++ [Large-scale Simple Question Answering with Memory Networks, Bordes, 2015](http://arxiv.org/pdf/1506.02075)
++ [Ask Me Anything: Dynamic Memory Networks for Natural Language Processing, Kumar, 2015](http://arxiv.org/pdf/1506.07285)
++ [Skip-Thought Memory Networks, Caballero, 2015](http://arxiv.org/abs/1511.06420)
++ [Neural mechanism to simulate a scale-invariant future timeline, Shankar, 2015](http://arxiv.org/pdf/1503.03322)

@@ -18,3 +18,15 @@
 ### Reinforcement learning
 
 + [Playing Atari with Deep Reinforcement Learning, Volodymyr, 2013](http://arxiv.org/pdf/1312.5602v1.pdf)
+
+### Multimodal Deep Learning
+
++ [Multimodla Deep Learning, Ngiam, 2011](https://people.csail.mit.edu/khosla/papers/icml2011_ngiam.pdf)
++ [Multimodal Learning with Deep Boltzman Machines, Srivastava, 2012](https://people.csail.mit.edu/khosla/papers/icml2011_ngiam.pdf)
+
+### Conversational Model
+
++ [Neural Responding Machine for Short-Text Conversation, Shang, 2015](http://arxiv.org/pdf/1503.02364.pdf)
++ [A Neural Conversational Model, Vinyals, 2015](http://arxiv.org/pdf/1506.05869.pdf)
++ [The Ubuntu Dialogue Corpus: A Large Dataset for Research in Unstructured Multi-Turn Dialogue Systems, Lowe, 2015](http://arxiv.org/pdf/1506.08909.pdf)
+

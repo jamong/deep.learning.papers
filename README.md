@@ -15,16 +15,16 @@
 +  [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift, Sergey Ioffe, 2015](http://arxiv.org/pdf/1502.03167v3.pdf)
 
 
-### Reinforcement learning
+### Papers about reinforcement learning
 
 + [Playing Atari with Deep Reinforcement Learning, Volodymyr, 2013](http://arxiv.org/pdf/1312.5602v1.pdf)
 
-### Multimodal Deep Learning
+### Papers about multimodal deep learning
 
 + [Multimodla Deep Learning, Ngiam, 2011](https://people.csail.mit.edu/khosla/papers/icml2011_ngiam.pdf)
 + [Multimodal Learning with Deep Boltzman Machines, Srivastava, 2012](https://people.csail.mit.edu/khosla/papers/icml2011_ngiam.pdf)
 
-### Conversational Model
+### Papers about conversational model
 
 + [Neural Responding Machine for Short-Text Conversation, Shang, 2015](http://arxiv.org/pdf/1503.02364.pdf)
 + [A Neural Conversational Model, Vinyals, 2015](http://arxiv.org/pdf/1506.05869.pdf)

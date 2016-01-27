@@ -62,3 +62,7 @@
 
 + [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks, Radford, 2015](http://arxiv.org/pdf/1511.06434v2.pdf)
 
+### Papers about inclremental learning
+
++ [Online Incremental Feature Learning with Denoising Autoencoders, Zhou, 2012](http://machinelearning.wustl.edu/mlpapers/paper_files/AISTATS2012_ZhouSL12.pdf)
++ [Online Feature Learning for Reinforcement Learning, Barchelor, 2014](http://www.ausy.tu-darmstadt.de/uploads/Site/EditPublication/Laux_thesis_2014.pdf)

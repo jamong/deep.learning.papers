@@ -39,6 +39,7 @@
 + [Ask Me Anything: Dynamic Memory Networks for Natural Language Processing, Kumar, 2015](http://arxiv.org/pdf/1506.07285)
 + [Skip-Thought Memory Networks, Caballero, 2015](http://arxiv.org/abs/1511.06420)
 + [Neural mechanism to simulate a scale-invariant future timeline, Shankar, 2015](http://arxiv.org/pdf/1503.03322)
++ [Towards Neural Network-based Reasoning, Peng, 2015](http://www.thespermwhale.com/jaseweston/ram/papers/paper_18.pdf)
  
 ### Papers about question answering
 

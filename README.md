@@ -55,7 +55,7 @@ REGULARIZATION, Zaremba, 2015](http://arxiv.org/pdf/1409.2329v5.pdf)
 + [Uncovering Temporal Context for Video Question and Answering, Zhu, 2015](http://arxiv.org/abs/1511.04670)
 + [MovieQA: Understanding Stories in Movies through Question-Answering, Tapaswi, 2015](http://arxiv.org/abs/1512.02902)
  
-### Papaers about sentiment analysis
+### Papers about sentiment analysis
 
 + [한글 자음 및 모음 사용을 통해 드러나는 온라인에서의 정서 표현에 대한 탐색적 연구, 오종환, 2014](http://www.kpubs.org/article/articleDownload.kpubs?downType=pdf&articleANo=MTMDCW_2014_v17n7_866)
 + [키네틱 타이포그래피를 통한 텍스트 기반 커뮤니케이션에서의 감정 전달 연구, 이준환, 2014](https://www.researchgate.net/profile/Soojin_Jun2/publication/264150920_Evaluating_Pre-defined_Kinetic_Typography_Effects_to_Convey_Emotions/links/54dc49670cf28d3de65f4517.pdf)

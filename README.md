@@ -24,6 +24,7 @@ REGULARIZATION, Zaremba, 2015](http://arxiv.org/pdf/1409.2329v5.pdf)
 ### Papers about reinforcement learning
 
 + [Playing Atari with Deep Reinforcement Learning, Volodymyr, 2013](http://arxiv.org/pdf/1312.5602v1.pdf)
++ [Generating Text with Deep Reinforcement Learning, Guo, 2015](http://arxiv.org/pdf/1510.09202v1.pdf)
 
 ### Papers about multimodal deep learning
 

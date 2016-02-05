@@ -19,6 +19,7 @@ REGULARIZATION, Zaremba, 2015](http://arxiv.org/pdf/1409.2329v5.pdf)
 + [Candidate Sampling Algorithms](https://www.tensorflow.org/extras/candidate_sampling.pdf)
 + [Deep Residual Learning for Image Recognition,He,2015](http://arxiv.org/pdf/1512.03385v1.pdf)
 + [Training Very Deep Networks,Srivastava,2015](http://arxiv.org/pdf/1507.06228v2.pdf)
++ [The Power of Depth for Feedforward Neural Networks,Eldan,2015](http://arxiv.org/pdf/1512.03965.pdf?platform=hootsuite)
 
 ### Papers about reinforcement learning
 

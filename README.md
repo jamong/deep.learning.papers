@@ -18,6 +18,7 @@ REGULARIZATION, Zaremba, 2015](http://arxiv.org/pdf/1409.2329v5.pdf)
 + [Learning word embeddings efficiently with noise-contrastive estimation, Mnih, 2013 ](http://papers.nips.cc/paper/5165-learning-word-embeddings-efficiently-with-noise-contrastive-estimation.pdf)
 + [Candidate Sampling Algorithms](https://www.tensorflow.org/extras/candidate_sampling.pdf)
 + [Deep Residual Learning for Image Recognition,He,2015](http://arxiv.org/pdf/1512.03385v1.pdf)
++ [Training Very Deep Networks,Srivastava,2015](http://arxiv.org/pdf/1507.06228v2.pdf)
 
 ### Papers about reinforcement learning
 

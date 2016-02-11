@@ -5,6 +5,7 @@
 ### Papers about character level 
 + [Character-level Convolutional Networks for Text Classification, 2015, Xiang Zhang](http://arxiv.org/pdf/1509.01626v2.pdf)
 + [Exploring the Limits of Language Modeling, 2016, Jozefowicz](http://arxiv.org/pdf/1602.02410v1.pdf)
++ [Character-Aware Neural Language Models, 2015, Yoon Kim](http://arxiv.org/pdf/1508.06615v4.pdf)
 
 ### Papers about attention
 

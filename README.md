@@ -2,6 +2,9 @@
 
 ## RNN
 
+### Papers about character level 
++[Character-level Convolutional Networks for Text Classification, 2015, Xiang Zhang](http://arxiv.org/pdf/1509.01626v2.pdf)
+
 ### Papers about attention
 
 + [NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE, Bahdanau, 2015](http://arxiv.org/pdf/1409.0473.pdf)

@@ -7,6 +7,10 @@
 + [Exploring the Limits of Language Modeling, 2016, Jozefowicz](http://arxiv.org/pdf/1602.02410v1.pdf)
 + [Character-Aware Neural Language Models, 2015, Yoon Kim](http://arxiv.org/pdf/1508.06615v4.pdf)
 
+### Papers about evaluation score
++ [LeBLEU: N-gram-based Translation Evaluation Score for Morphologically Complex Languages, 2015, Sami Virpioja] (http://www.statmt.org/wmt15/pdf/WMT52.pdf)
++ [BLEU in characters: towards automatic MT evaluation in languages without word delimiters, 2005, Etienne Denoual](http://www.mt-archive.info/IJCNLP-2005-Denoual.pdf)
+
 ### Papers about attention
 
 + [NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE, Bahdanau, 2015](http://arxiv.org/pdf/1409.0473.pdf)

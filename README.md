@@ -78,6 +78,8 @@ REGULARIZATION, Zaremba, 2015](http://arxiv.org/pdf/1409.2329v5.pdf)
 ### Papers about generative model
 
 + [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks, Radford, 2015](http://arxiv.org/pdf/1511.06434v2.pdf)
++ [Generating Sentences from a Continuous Space, Samuel R. Bowman, 2016](http://arxiv.org/pdf/1511.06349v2.pdf)
++ [Generative Adversarial Nets, Ian J.Goodfellow, 2014](http://datascienceassn.org/sites/default/files/Generative%20Adversarial%20Nets.pdf)
 
 ### Papers about incremental learning
 
